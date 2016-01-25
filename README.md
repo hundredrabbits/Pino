@@ -35,9 +35,9 @@
 * **Maximum Speed** 6 knots
 
 ## Tanks
-* **Fresh Water Tanks: Fiberglass (45 Gallons)
-* **Fuel Tanks: (18 Gallons)
-* **Holding Tanks: Plastic (30 Gallons)
+* **Fresh Water Tanks** Fiberglass (45 Gallons)
+* **Fuel Tanks** (18 Gallons)
+* **Holding Tanks** Plastic (30 Gallons)
 
 ## Accommodations
 There are six berths aboard, a large V berth, two singles in the main salon, a pilot on the port side and one large quarter berth to port aft. She has a fold away salon dining table, and has 6' 3" headroom.
