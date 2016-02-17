@@ -103,7 +103,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Swim Ladder
 * Barrient and Anderson winches
 * 2 Life preservers
-* Note (Flares are not  current)
+* Flare Gun(12 ammo)
 * Canvas bimini with Stainless Steel supports
 * Canvas lee cloths to shelter cockpit area
 * Cockpit cushions for port, starboard and aft seating areas
