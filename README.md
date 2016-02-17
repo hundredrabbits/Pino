@@ -14,12 +14,13 @@
 * **Hull Shape** Displacement
 
 ## Dimensions
-* **LOA** 26 ft 11 in
-* **Beam** 11 ft 0 in
-* **Maximum Draft** 6 ft 3 in
-* **Displacement** 10584 lbs
-* **Ballast** 4409 lbs
-* **Headroom** 6 ft 3 in
+* **LOA** 33.0ft(10.16m)
+* **LWL** 26.92ft(8.21m)
+* **Beam** 11.0ft(3.35m)
+* **Maximum Draft** 6.25ft(1.91m)
+* **Displacement** 10584lbs(4400kgs)
+* **Ballast** 4409lbs(2000 kgs.)
+* **Headroom** 6ft 3in
 
 ## Engine(20HP)
 * **Engine Brand** Yanmar
