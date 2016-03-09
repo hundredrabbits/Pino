@@ -11,7 +11,6 @@
 * **Builder** Yamaha
 * **Flag of Registry** Canada
 * **Keel** Fin
-* **Hull Shape** Displacement
 
 ## Dimensions
 * **LOA** 33.0ft(10.16m)
@@ -57,7 +56,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * An Expanded countertop area.
 * Nova cool fridge and freezer.
 * Teak in excellent condition.
-* Halogen lights.
+* LEDs lights.
 * Cockpit cushions.
 
 ## Galley
