@@ -28,9 +28,9 @@
 * **Engine Type** Inboard
 * **Engine/Fuel Type** Diesel
 * **Engine Hours** 2770
-* **Propeller** 3 blade propeller
+* **Propeller** 3 blade propeller(Maxprop)
 * **Drive Type** Direct Drive
-* **Engine Power** 20 HP
+* **Engine Power** 12 HP
 * **Cruising Speed** 5 knots
 * **Maximum Speed** 6 knots
 
@@ -52,12 +52,8 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Outside Equipment/Extras
 * Electric windlass
 * Espar forced air heating.
-* Custom curtains.
-* An Expanded countertop area.
 * Nova cool fridge and freezer.
-* Teak in excellent condition.
 * LEDs lights.
-* Cockpit cushions.
 
 ## Galley
 * Located starboard aft
@@ -66,7 +62,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 3 burner propane Stove with Oven
 * Pressure domestic water system
 * Cold water foot pump in galley
-* Ample storage
+* Salt water foot pump in galley
 * 2 Deckhead Dorads near galley
 
 ## Electronics
@@ -76,14 +72,14 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Autohelm ST4000 Autopilot
 * Furuno Marine 1720 Radar
 * Raymarine ST60 Knotmeter
-* Kenwood Stereo System (AM, FM, CD)
+* LEPY Audio Amplifier 12V
+* Samplex 250W, DC-AC Inverter
 * Clock, Barometer and Hygrometer
 * Balmar 75 amp altenator.
-* Four  6 Volt golf cart batteries
+* Four 6 Volt golf cart batteries
 * Truecharge 40 Battery Charger
 * House batteries 12 V at 440 Hh
 * 30 Amp shore power cord
-* Teak cockpit instrument panel 
 
 ## Electrical
 * AC outlets in cabin (4 total - 1 in head)
@@ -91,7 +87,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 4 - 6 Volt batteries (440 Amp hours)
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
-* Shore Power cord
 
 ## Helm and Deck
 * Wheel Steering
@@ -101,18 +96,16 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 200' - 1/2" anchor rode (est.)
 * Swim Ladder
 * Barrient and Anderson winches
-* 2 Life preservers
+* 2 Mustang PFDs & Sailing Harness
 * Flare Gun(12 ammo)
 * Canvas bimini with Stainless Steel supports
 * Canvas lee cloths to shelter cockpit area
-* Cockpit cushions for port, starboard and aft seating areas
 
 ## Rig and Sail Inventory
 * Stainless Steel Mast and Boom
-* Mainsail by North Sails in good condition
-* Jib is 100% and is in basic condition
-* Gennaker is in basic condition
+* Mainsail, by North Sails
+* 100% Jib, by North Sails
+* Gennaker(Not trialed yet)
 
 ## Additional Features
-* Propeller is a Maxprop
-* All underwater surfaces have been maintained by Blackline Marine in Sidney
+* All underwater surfaces maintained by Blackline Marine in Sidney
