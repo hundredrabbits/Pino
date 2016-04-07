@@ -46,9 +46,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * **Number of cabins** 1
 * **Number of heads** 1
 
-## Electrical Equipment
-* **Electrical Circuit** 12V
-
 ## Outside Equipment/Extras
 * Electric windlass
 * Espar forced air heating.
@@ -65,7 +62,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Salt water foot pump in galley
 * 2 Deckhead Dorads near galley
 
-## Electronics
+## 12V Electronics
 * Icom IC M120 VHF Radio
 * Teak cockpit instrument panel
 * Raymarine ST60 Depth Sounder, Wind speed and direction, Boat Speed,
