@@ -2,7 +2,7 @@
 
 * **Year** 1982
 * **Length** 33'
-* **Engine/Fuel Type** Single / diesel(20 HP)
+* **Engine/Fuel Type** Single / diesel(12 HP)
 * **Located In** Sidney, BC
 * **Hull Material** Fiberglass
 * **YW#** 68091-2823641
@@ -21,7 +21,7 @@
 * **Ballast** 4409lbs(2000 kgs.)
 * **Headroom** 6ft 3in
 
-## Engine(20HP)
+## Engine(12HP)
 * **Engine Brand** Yanmar
 * **Year Built** 1982
 * **Engine Model** 2 GM
