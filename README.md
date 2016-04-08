@@ -3,7 +3,6 @@
 * **Year** 1982
 * **Length** 33'
 * **Engine/Fuel Type** Single / diesel(12 HP)
-* **Located In** Sidney, BC
 * **Hull Material** Fiberglass
 * **YW#** 68091-2823641
 
