@@ -3,7 +3,7 @@
 * **Name** [PINO](https://github.com/hundredrabbits/Pino/blob/master/CEREMONY.md)
 * **Year** 1982
 * **Length** 33'
-* **Engine/Fuel Type** Single / diesel(12 HP)
+* **Engine/Fuel Type** Single / diesel(13 HP)
 * **Hull Material** Fiberglass
 * **YW#** 68091-2823641
 
@@ -21,7 +21,7 @@
 * **Ballast** 4409lbs(2000 kgs.)
 * **Headroom** 6ft 3in
 
-## Engine(12HP)
+## Engine(13HP)
 * **Engine Brand** Yanmar
 * **Year Built** 1982
 * **Engine Model** 2 GM
