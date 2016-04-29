@@ -1,6 +1,6 @@
 # Yamaha-33
 
-* **Name** PINO
+* **Name** [PINO](https://github.com/hundredrabbits/Pino/blob/master/CEREMONY.md)
 * **Year** 1982
 * **Length** 33'
 * **Engine/Fuel Type** Single / diesel(12 HP)
