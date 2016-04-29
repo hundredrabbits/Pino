@@ -1,5 +1,6 @@
 # Yamaha-33
 
+* **Name** PINO
 * **Year** 1982
 * **Length** 33'
 * **Engine/Fuel Type** Single / diesel(12 HP)
