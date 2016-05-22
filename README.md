@@ -18,6 +18,7 @@
 * **Beam** 11.0ft(3.35m)
 * **Maximum Draft** 6.25ft(1.91m)
 * **Displacement** 10584lbs(4400kgs)
+* **Displacement Ratio** 242.20(Moderate)
 * **Ballast** 4409lbs(2000 kgs.)
 * **Headroom** 6ft 3in
 
@@ -38,7 +39,7 @@
 * **Fresh Water Tanks** Fiberglass (45 Gallons)
 * **Fuel Tanks** (18 Gallons)
 * **Holding Tanks** Plastic (30 Gallons)
-* **Water(Annex)** Plastic (2 X 6 Gallons)
+* **Water(Annex)** Plastic (3 X 6 Gallons)
 * **Fuel(Annex)** Plastic (5.3 Gallons)
 
 ## Accommodations
