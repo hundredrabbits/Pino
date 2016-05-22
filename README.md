@@ -52,8 +52,8 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Outside Equipment/Extras
 * Electric windlass
 * Espar forced air heating.
-* Nova cool fridge and freezer.
-* LEDs lights.
+* Nova cool fridge and freezer
+* LEDs lights
 
 ## Galley
 * Located starboard aft
@@ -84,13 +84,16 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Electrical
 * AC outlets in cabin (4 total - 1 in head)
 * Truecharge 40 battery charger
-* 4 - 6 Volt batteries (440 Amp hours)
+* 4 x 6 Volt batteries (440 Amp hours)
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
+* 2 USB double outlets
+* 2 Solar Panels(1 x 60W, 1 x 100W)
+* ProStar-15 Solar Controller
 
 ## Helm and Deck
 * Wheel Steering
-* Bruce Anchor (10 kg - 22 lb.)
+* Bruce Anchor 10 kg(22lb)
 * Electric Anchor Windlass
 * 50' chain (est.)
 * 200' - 1/2" anchor rode (est.)
@@ -105,7 +108,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Stainless Steel Mast and Boom
 * Mainsail, by North Sails
 * 100% Jib, by North Sails
-* Gennaker(Not trialed yet)
+* Gennaker
 
 ## Additional Features
 * All underwater surfaces maintained by Blackline Marine in Sidney
