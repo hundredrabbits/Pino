@@ -67,6 +67,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 
 ## 12V Electronics
 * Icom IC M120 VHF Radio
+* Standard Horizon HX870 Handlheld VFH Radio
 * Teak cockpit instrument panel
 * Raymarine ST60 Depth Sounder, Wind speed and direction, Boat Speed,
 * Autohelm ST4000 Autopilot
@@ -95,7 +96,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Wheel Steering
 * Bruce Anchor 10 kg(22lb)
 * Electric Anchor Windlass
-* 50' chain (est.)
+* 50' chain (5/16)
 * 200' - 1/2" anchor rode (est.)
 * Swim Ladder
 * Barrient and Anderson winches
