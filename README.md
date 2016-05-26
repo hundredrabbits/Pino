@@ -54,6 +54,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Espar forced air heating.
 * Nova cool fridge and freezer
 * LEDs lights
+* Plastimo inflatable tender
 
 ## Galley
 * Located starboard aft
@@ -95,9 +96,12 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Helm and Deck
 * Wheel Steering
 * Bruce Anchor 10 kg(22lb)
+* Rocna Anchor 10kg (22lb)
 * Electric Anchor Windlass
-* 50' chain (5/16)
-* 200' - 1/2" anchor rode (est.)
+* 50' galvanized chain 5/16 (spare)
+* 200' - 1/2" nylon rode (spare)
+* 100' chain 5/16 
+* 200' 1/2" nylon rode
 * Swim Ladder
 * Barrient and Anderson winches
 * 2 Mustang PFDs & Sailing Harness
