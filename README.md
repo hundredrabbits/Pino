@@ -1,16 +1,18 @@
 # Yamaha-33
 
 * **Name** [PINO](https://github.com/hundredrabbits/Pino/blob/master/CEREMONY.md)
+* **Builder** Yamaha
 * **Year** 1982
 * **Length** 33'
 * **Engine/Fuel Type** Single / diesel(13 HP)
 * **Hull Material** Fiberglass
-* **YW#** 68091-2823641
-
-## Specs
-* **Builder** Yamaha
-* **Flag of Registry** Canada
 * **Keel** Fin
+
+## Registration
+* **Flag of Registry** Canada
+* **YW#** 68091-2823641
+* **MMSI** 316032192
+* **Call Sign** CFA2125
 
 ## Dimensions
 * **LOA** 33.0ft(10.16m)
