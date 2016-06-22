@@ -84,6 +84,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Truecharge 40 Battery Charger
 * House batteries 12 V at 440 Hh
 * 30 Amp shore power cord
+* Iridium GO! Sat Phone
 
 ## Electrical
 * AC outlets in cabin (4 total - 1 in head)
@@ -118,4 +119,5 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Gennaker
 
 ## Additional Features
+* ACR ResQLink PLB
 * All underwater surfaces maintained by Blackline Marine in Sidney
