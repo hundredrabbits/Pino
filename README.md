@@ -62,7 +62,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Located starboard aft
 * 2 deep Stainless Steel Sinks
 * Nova Kool Refrigeration
-* 3 burner propane Stove with Oven
+* Force10 3 burner propane Stove with Oven
 * Pressure domestic water system
 * Cold water foot pump in galley
 * Salt water foot pump in galley
