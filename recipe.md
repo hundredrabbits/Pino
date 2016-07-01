@@ -25,7 +25,7 @@
 - Tumeric 				**BULK**
 - Whole Weat Flour 		**BULK**
 
-## GROCERIES**
+## GROCERIES
 - Apple					**20**
 - Apple Cider Vinegar	**1 jar**
 - Apple Juice			**6 boxes**
