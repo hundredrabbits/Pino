@@ -24,11 +24,17 @@
 - Tea 					**BULK**
 - Tumeric 				**BULK**
 - Whole Weat Flour 		**BULK**
+- Cereal Flakes  		**BULK**
+- Honey 				**BULK**
+- Couscous 				**BULK**
+- Peanut Butter 	 	**BULK**
 
 ## GROCERIES
 - Apple					**20**
 - Apple Cider Vinegar	**1 jar**
-- Apple Juice			**6 boxes**
+- Apple Juice			**8 boxes**
+- Cranberry Juice 		**6 boxes**
+- Orange Juice 			**4 bottles**
 - Avocado 				**2 bags**
 - Mixed Beans 			**6 cans**
 - Bok Choy 				**1 bag**
@@ -36,14 +42,12 @@
 - Brocolli 				**2**
 - Broth 		 		**5 packs**
 - Carrots 				**3 bags**
-- Cereal Flakes  		**2 bags**
 - Chips 				**4 bags**
+- Corn Chips			**2 bags**
 - Chocolate Bar 		**9 bars**
 - Coconut Milk 			**6 boxes**
 - Cookies 				**2 boxes**
 - Corn 					**3 cans**
-- Couscous 				**4 boxes**
-- Cranberry Juice 		**6 boxes**
 - Egg Box 				**1**
 - Fruits Can 			**6 cans**
 - Garlic 				**12 cloves**
@@ -57,17 +61,15 @@
 - Kare					**4 boxes**
 - Lemon 				**5 fruits**
 - Limes 				**5 fruits**
-- Soy Milk 				**6**
+- Soy Milk 				**10 boxes**
 - Mirin 				**1 bottle**
 - Miso 					**1 bucket**
-- Mixed Veggies Can 	**5 cans**
+- Mixed Veggies Can 	**6 cans**
 - Mushrooms 			**1 bag**
 - Mustard 				**1 jar**
 - Olives				**2 cans**
 - Onion 				**2 bags**
 - Orange 				**12 fruits**
-- Orange Juice 			**4 bottles**
-- Peanut Butter 	 	**2 jars**
 - Peppers 				**3**
 - Pesto 				**1 jar**
 - Pickles 				**3 jars**
@@ -76,11 +78,12 @@
 - Rice Crackers 		**3 bags**
 - Rice Noodles 			**3 bags**
 - Rice Vinegar 			**1 bottle**
-- Salsa 				**3 jars**
+- Salsa 				**4 jars**
 - Sambal 				**1 jar**
+- Shriracha 			**1 jar**
 - Sesame Oil 			**1 bottle**
 - Shijimi 				**2 bottles**
-- Snack bars 			**30 bars**
+- Snack bars 			**60 bars**
 - Sourkroute 			**2 jars**
 - Soy Sauce 			**1 jar**
 - Sushi Rice 			**1 bag**
@@ -89,7 +92,7 @@
 - Tomato Can 			**6**
 - Tonic Water 			**12 cans**
 - Ume Boshi 			**1 jar**
-- Vegan Saussage 		**3 bags**
+- Vegan Saussage 		**3 packs**
 - Wesestershire 		**1 bottle**
 - White Vinegar 		**1 jar**
 - Zucchini 				**2**
