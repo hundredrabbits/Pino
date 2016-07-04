@@ -1,101 +1,145 @@
 ## BULK
-- Almonds 				**BULK**
-- Baking Powder 		**BULK**
-- Baking Soda 			**BULK**
-- Barley 				**BULK**
-- Brown Sugar 			**BULK**
-- Buckweat Flower  		**BULK**
-- Cayenne Pepper 		**BULK**
-- Chickpea 				**BULK**
-- Chickpea Flour 		**BULK**
-- Chilli Flakes 		**BULK**
-- Corn Starch 			**BULK**
-- Cumin 				**BULK**
-- Curry Powder 			**BULK**
-- Ginger Bits 			**BULK**
-- Lentils 				**BULK**
-- Masala 				**BULK**
-- Nutritional Yeast 	**BULK**
-- Oatmeal 				**BULK**
-- Pasta 				**BULK**
-- Peanuts 				**BULK**
-- Quinoa 				**BULK**
-- Rice 					**BULK**
-- Tea 					**BULK**
-- Tumeric 				**BULK**
-- Whole Weat Flour 		**BULK**
-- Cereal Flakes  		**BULK**
-- Honey 				**BULK**
-- Couscous 				**BULK**
-- Peanut Butter 	 	**BULK**
+- Red lentils 			**2 1/2 quarts**
+- Buckwheat flour 		**1 quart**
+- Chickpeas, dry 		**1 1/2 quart**
+- Baking powder 		**quarter pint**
+- Chickpea flour 		**1 1/2 quart**
+- Peanut butter 		**2 quarts**
+- Crispy rice cereal 	**3 1/2 bags**
+- Kamut krisp cereal 	**2 bags**
+- Shreddies 			**1/4 bag**
+- Cornmeal 				**2 quarts**
+- Quick oats 			**2 quarts**
+- Nutritional yeast 	**1 quart**
+- White flour 			**4 quarts**
+- Baking soda 			**1 quart**
+- Couscous 				**2 quarts**
+- Barley				**1 quart**
+- Bull kelp powder		**1 bag**
+- Whole wheat flour		**4 quarts*
+- Brown sugar			**1 quart**
 
-## GROCERIES
-- Apple					**20**
-- Apple Cider Vinegar	**1 jar**
-- Apple Juice			**8 boxes**
-- Cranberry Juice 		**6 boxes**
-- Orange Juice 			**4 bottles**
-- Avocado 				**2 bags**
-- Mixed Beans 			**6 cans**
-- Bok Choy 				**1 bag**
-- Bread 				**1 loaf**
-- Brocolli 				**2**
-- Broth 		 		**5 packs**
-- Carrots 				**3 bags**
-- Chips 				**4 bags**
-- Corn Chips			**2 bags**
-- Chocolate Bar 		**9 bars**
-- Coconut Milk 			**6 boxes**
-- Cookies 				**2 boxes**
-- Corn 					**3 cans**
-- Egg Box 				**1**
-- Fruits Can 			**6 cans**
-- Garlic 				**12 cloves**
-- Ginger 				**5 roots**
-- Ginger Ale 			**24 cans**
-- Gojuchang 			**1 bucket**
-- Green Beans 			**1 pack**
-- Heart of palms 		**2 cans**
-- Hot Peppers Pickled	**1 jar**
-- Instant Noodles		**15 bags**
-- Kare					**4 boxes**
-- Lemon 				**5 fruits**
-- Limes 				**5 fruits**
-- Soy Milk 				**10 boxes**
-- Mirin 				**1 bottle**
-- Miso 					**1 bucket**
-- Mixed Veggies Can 	**6 cans**
-- Mushrooms 			**1 bag**
-- Mustard 				**1 jar**
-- Olives				**2 cans**
-- Onion 				**2 bags**
-- Orange 				**12 fruits**
-- Peppers 				**3**
-- Pesto 				**1 jar**
-- Pickles 				**3 jars**
-- Potato 				**2 bags**
-- Pumkin 				**2**
-- Rice Crackers 		**3 bags**
-- Rice Noodles 			**3 bags**
-- Rice Vinegar 			**1 bottle**
-- Salsa 				**4 jars**
-- Sambal 				**1 jar**
-- Shriracha 			**1 jar**
-- Sesame Oil 			**1 bottle**
-- Shijimi 				**2 bottles**
-- Snack bars 			**60 bars**
-- Sourkroute 			**2 jars**
-- Soy Sauce 			**1 jar**
-- Sushi Rice 			**1 bag**
-- Tiki Masala 			**2 jars**
+## DRINKS
+- Sunrype juice 		**4**
+- Orange juice 			**4**
+- Tropicana 			**6**
+- Cranberry Juice 		**1**
+- Ruby red 				**1**
+- Ginger ale 			**24*
+- Sparkling water		**12**		
+- Flax milk				**4**
+- Soy milk				**4**
+- Coconut milk			**1**
+- Hemp milk				**2**
+- Apple Juice 			**12**
+
+## MISC
+- Detergent 			**1 1/2 bottles**
+- Toilet paper 			**24 rolls**
+- Paper towels			**6**
+
+## SNACKS
+- Diced ginger 			**1 1/2 jar**
+- Kettle chips 			**4 bags**
+- Tostados chips 		**2 1/2 bags**
+- Cliff bars 			**27**
+- Fig bar 				**24**
+- Gummy bears 			**1 bag**
+- Twizzlers 			**1 pack**
+- Dried mango 			**2 bags**
+- Salsa					**4**
+- Dried apricots		**2 bags**
+- Craisins 				**2 bags**
+- Pitted dates			**2 packs**
+- Medjool dates			**1 pack**
+- Mint					**3 bags**
+- Fudgeo				**1 pack**
+- Chips ahoy			**1 pack**
+
+## PACKAGED FOODS
+- Mixed vegetables 		**5**
+- Wakame				**1 1/2 bag**
+- Whole bladderwack		**1 jar**
+- Corn 					**3**
+- Boxed soup 			**2**
 - Tomato 				**6**
-- Tomato Can 			**6**
-- Tonic Water 			**12 cans**
-- Ume Boshi 			**1 jar**
-- Vegan Saussage 		**3 packs**
-- Wesestershire 		**1 bottle**
-- White Vinegar 		**1 jar**
+- Tomato Diced 			**6**
+- Habitant soup 		**4**
+- Bean 					**6**
+- Tropical fruit 		**2**
+- Pears					**1**
+- Peach					**3**
+- Pesto					**2**
+- Hearts of palm		**2**
+- Apricot 				**1**
+- Honey					**1**
+- Jam					**3**
+- Hot peppers			**1**
+- Sauerkraut			**1**
+- Mango 				**2**
+- Olives				**1**
+- Tomato sauce			**4**
+- Pickles				**2 jars**
+- Sesame oil 			**3**
+- Curry					**8**
+- Coconut milk			**4**
+- Coconut milk Boxed	**2**
+- Wasabi				**1 1/2**
+- Rice vinegar			**1 1/2**
+- Dry mustard			**2 boxes**
+- Soy sauce				**1 1/4*
+- Sardines				**4**
+- Eggs 					**12**
+- Maple syrup			**1 can**
+- Gochujang 			**1 pack**
+- Tofurky				**2 1/2 pack**
+- Miso 					**1 1/2 pack**
+- Sambal				**1**
+- Shichimi togarashi	**2**
+- Sriracha				**1**
+- Japanese curry 		**5**
+- Tofu 					**8 boxes**
+- Rotini				**3 bags**
+- Penne					**3 bags**
+- Sushi rice			**2 bags**
+- Ramen					**10 packs**
+- Chapagetti			**6**
+- Basmati rice			**2 1/2 bags**
+- Rice noodles			**2 packs**
+
+## PRODUCE
+- Banana				**9**
+- Bread 				**2**
+- Apples				**20**
+- New potatoes			**10**
+- Ginger 				**4**
+- Garlic				**12**
+- Bok choy 				**5**
+- Yams					**10**
+- Persimmons			**4**
 - Zucchini 				**2**
+- Tomatoes				**6**
+- Green peppers 		**2**
+- Mini peppers			**1 bag**
+- Broccoli				**3**
+- Oranges				**6 lbs**
+- Lemons				**8**
+- Limes					**8**
+- Avocado				**6**
+- Onion					**3 lbs**
+- Kabocha				**1**
+- Baby carrot			**1 bag**
+- Carrots				**3 bags**
+- Umeboshi				**1 pack**
+- Dried mushroom		**2 packs**
+- Salad					**1 head**
 
 ## LIQUOR
-- Wine 					**12 bottles**
+- Cabernet Sauvignon 	**4 L**
+- Pinot grigio 			**4 L**
+- Shiraz 				**4 L**
+- Ram's head brandy		**1 bottle**
+- Whisky 				**2 bottles**	
+- Campari 				**1/2 bottle**
+- Blackberry beer 		**2 cans**
+- Pale ale 				**1 can**
