@@ -57,6 +57,8 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Nova cool fridge and freezer
 * LEDs lights
 * Plastimo inflatable tender
+* Evenrude 3hp 2T tender engine
+* Anchor Bridale
 
 ## Galley
 * Located starboard aft
@@ -72,7 +74,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Icom IC M120 VHF Radio
 * Standard Horizon HX870 Handlheld VFH Radio
 * Teak cockpit instrument panel
-* Raymarine ST60 Depth Sounder, Wind speed and direction, Boat Speed,
+* Raymarine ST60 Depth Sounder, Wind speed, Boat Speed
 * Autohelm ST4000 Autopilot
 * Furuno Marine 1720 Radar
 * Raymarine ST60 Knotmeter
@@ -92,7 +94,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 4 x 6 Volt batteries (440 Amp hours)
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
-* 2 USB double outlets
+* 3 USB double outlets(2 inside, 1 outside)
 * 2 Solar Panels(1 x 60W, 1 x 100W)
 * ProStar-15 Solar Controller
 
@@ -116,8 +118,14 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Stainless Steel Mast and Boom
 * Mainsail, by North Sails
 * 100% Jib, by North Sails
-* Gennaker
+* Black, Red & Blue Gennaker, by North Sails
 
 ## Additional Features
 * ACR ResQLink PLB
-* All underwater surfaces maintained by Blackline Marine in Sidney
+* Brass Bell
+
+## Fuel Filter(119305-35151)
+* Primary
+* **NAPA** 7040, 1365
+* **WIX** 51365, 57040
+* **Baldwin** B1400, B7286
