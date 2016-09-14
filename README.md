@@ -33,7 +33,7 @@
 * **Engine Hours** 2770
 * **Propeller** 3 blade propeller(Maxprop)
 * **Drive Type** Direct Drive
-* **Engine Power** 12 HP
+* **Engine Power** 13 HP
 * **Cruising Speed** 5 knots
 * **Maximum Speed** 6 knots
 
@@ -41,7 +41,7 @@
 * **Fresh Water Tanks** Fiberglass (45 Gallons)
 * **Fuel Tanks** (18 Gallons)
 * **Holding Tanks** Plastic (30 Gallons)
-* **Water(Annex)** Plastic (3 X 6 Gallons)
+* **Water(Annex)** Plastic (5 X 6 Gallons)
 * **Fuel(Annex)** Plastic (2 X 5.3 Gallons)
 
 ## Accommodations
@@ -57,8 +57,8 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Nova cool fridge and freezer
 * LEDs lights
 * Plastimo inflatable tender
-* Evenrude 3hp 2T tender engine
-* Anchor Bridale
+* Evinrude 3hp 2T tender engine
+* V-shape custom anchor Bridle
 
 ## Galley
 * Located starboard aft
