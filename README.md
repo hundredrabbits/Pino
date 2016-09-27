@@ -58,7 +58,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * LEDs lights
 * Plastimo inflatable tender
 * Evinrude 3hp 2T tender engine
-* V-shape custom anchor Bridle
 * Specialized 'langster' road bike
 * Trek 'district s' road bike
 * Bike pump
@@ -101,8 +100,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 2 Solar Panels(1 x 60W, 1 x 100W)
 * ProStar-15 Solar Controller
 
-## Helm and Deck
-* Wheel Steering
+## Ground tackle
 * Bruce Anchor 10 kg(22lb)
 * Rocna Anchor 10kg (22lb)
 * Electric Anchor Windlass
@@ -110,6 +108,10 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 200' - 1/2" nylon rode (spare)
 * 100' chain 5/16 
 * 200' 1/2" nylon rode
+* V-shape custom anchor Bridle
+
+## Helm and Deck
+* Wheel Steering
 * Swim Ladder
 * Barrient and Anderson winches
 * 2 Mustang PFDs & Sailing Harness
@@ -119,8 +121,8 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 
 ## Rig and Sail Inventory
 * Stainless Steel Mast and Boom
-* Mainsail, by North Sails
-* 100% Jib, by North Sails
+* Mainsail, by North Sails (259.9 / 24.15)
+* 100% Jib, by North Sails (322.3 / 29.94)
 * Black, Red & Blue Gennaker, by North Sails
 
 ## Additional Features
