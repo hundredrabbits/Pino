@@ -59,6 +59,9 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Plastimo inflatable tender
 * Evinrude 3hp 2T tender engine
 * V-shape custom anchor Bridle
+* Specialized 'langster' road bike
+* Trek 'district s' road bike
+* Bike pump
 
 ## Galley
 * Located starboard aft
