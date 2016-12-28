@@ -43,6 +43,7 @@
 * **Holding Tanks** Plastic (30 Gallons)
 * **Water(Annex)** Plastic (5 X 6 Gallons)
 * **Fuel(Annex)** Plastic (2 X 5.3 Gallons)
+* **Gasoline(Annex)** Plastic (5.8 Gallons)
 
 ## Accommodations
 There are six berths aboard, a large V berth, two singles in the main salon, a pilot on the port side and one large quarter berth to port aft. She has a fold away salon dining table, and has 6' 3" headroom.
@@ -57,10 +58,11 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Nova cool fridge and freezer
 * LEDs lights
 * Plastimo inflatable tender
-* Evinrude 3hp 2T tender engine
+* Honda 2.3hp 4 strokes outboard engine
 * Specialized 'langster' road bike
 * Trek 'district s' road bike
 * Bike pump
+* Honda EU1000i generator
 
 ## Galley
 * Located starboard aft
@@ -112,7 +114,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 
 ## Helm and Deck
 * Wheel Steering
-* Swim Ladder
 * Barrient and Anderson winches
 * 2 Mustang PFDs & Sailing Harness
 * Flare Gun(12 ammo)
