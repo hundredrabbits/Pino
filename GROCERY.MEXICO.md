@@ -7,7 +7,7 @@
 - HOUJICHA
 - PEPPERMINT TEA
 - MATE TEA
-- COFFEE              **2 BAGS*
+- COFFEE              **2 BAGS**
 - JUICE
 - BEER
 - WINE
@@ -15,7 +15,7 @@
 
 ## DRY
 - OATS                **5**
-- VEGETABLE CONSOMME  **1 BOTTLE*
+- VEGETABLE CONSOMME  **1 BOTTLE**
 - CHIPOTLE            **10**
 - NORI                **2X10 PACK**
 - RICE NOODLES        **2 PACKS**
