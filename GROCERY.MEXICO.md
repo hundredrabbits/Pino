@@ -23,13 +23,13 @@
 - RAMEN               **6**
 - WAKAME              **1 BAG**
 - CEREAL
-- WHITE FLOUR
-- WHOLE WHEAT FLOUR
+- WHITE FLOUR         **3KG*
+- WHOLE WHEAT FLOUR   **3KG**
 - LENTILS
-- GARBANZO BEANS
-- PASTA               **13**
+- GARBANZO BEANS      **2kg**
+- PASTA               **13**
 - SPAGHETTI           **5**
-- SUSHI RICE
+- SUSHI RICE          **2kg**
 - BASMATI RICE
 - BROWN BASMATI RICE
 - TORTILLAS
@@ -42,7 +42,7 @@
 - SESAME SEEDS        **1 BOTTLE**
 - CORN MEAL
 - CHORIZO SOY         **1 BAG**
-- SOY TEXTURED P.     **1 BAG**
+- SOY TEXTURED P.     **2 BAGS**
 - DRY TOMATOES
 - ONION SOUP MIX
 - MINESTRONE SOUP MIX
@@ -64,14 +64,14 @@
 - COCONUT OIL         **1**
 - WHITE VINEGAR
 - APPLE CIDER VINEGAR
-- BALSAMIC VINEGAR
+- BALSAMIC VINEGAR    **1**
 - WORCESTERSHIRE      **1**
 - SAMBAL OELEK        **1**
 - VANILLA EXTRACT     **1**
 - JAPANESE KARE       **2x4 BLOCKS**
 
 ## SPICES
-- MALASA
+- MALASA              **1 BOTTLE**
 - CUCURMA
 - CURRY POWDER
 - OREGANO
@@ -98,9 +98,10 @@
 - PEANUTS IN SHELL    **1 BAG**
 - CHIPS
 - CANNED FRUIT
-- HOT NUTS            **4 BAGS**
+- HOT NUTS            **5 BAGS**
 - RICE CRACKERS       **2 BAGS**
 - POPCORN
+- DRIED CRANBERRIES   
 
 ## CANS
 - SALSA               **10**
