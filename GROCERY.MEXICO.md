@@ -1,37 +1,36 @@
 
 ## DRINKS
-- SOY MILK            **10**
-- GINGER ALE          **5**
+- SOY MILK            **20**
+- GINGER ALE          **2**
 - LAPSANG SOUCHONG    
 - JASMINE TEA
 - HOUJICHA
 - PEPPERMINT TEA
 - MATE TEA
 - COFFEE              **2 BAGS**
-- JUICE
-- BEER
-- WINE
-- WATER
+- JUICE               **8L**
+- BEER                **24 CANS**
+- WINE                **6 BOTTLES**
 
 ## DRY
-- OATS                **5**
+- OATS                **10**
 - VEGETABLE CONSOMME  **1 BOTTLE**
 - CHIPOTLE            **10**
 - NORI                **2X10 PACK**
 - RICE NOODLES        **2 PACKS**
 - TOFU                **9**
-- RAMEN               **6**
+- RAMEN               **5**
 - WAKAME              **1 BAG**
-- CEREAL
+- CEREAL              **6 BOXES**
 - WHITE FLOUR         **3KG*
 - WHOLE WHEAT FLOUR   **3KG**
-- LENTILS
+- LENTILS             **2 BAGS**
 - GARBANZO BEANS      **2kg**
 - PASTA               **13**
 - SPAGHETTI           **5**
 - SUSHI RICE          **2kg**
-- BASMATI RICE
-- BROWN BASMATI RICE
+- BASMATI RICE        **1 LARGE BAG**
+- BROWN BASMATI RICE  **2 BAGS**
 - TORTILLAS
 - BAKING SODA
 - BAKING POWDER
@@ -58,17 +57,17 @@
 - NUTRITIONAL YEAST   **2 BAGS**
 - TAJIN               **5**
 - SOY SAUCE           **3**
-- RICE VINEGAR
+- RICE VINEGAR        **1**
 - SESAME OIL          **1**
 - OLIVE OIL           **2**
 - COCONUT OIL         **1**
-- WHITE VINEGAR
-- APPLE CIDER VINEGAR
+- WHITE VINEGAR       **8 BOTTLES**
+- APPLE CIDER VINEGAR **1 BOTTLE**
 - BALSAMIC VINEGAR    **1**
 - WORCESTERSHIRE      **1**
 - SAMBAL OELEK        **1**
 - VANILLA EXTRACT     **1**
-- JAPANESE KARE       **2x4 BLOCKS**
+- JAPANESE KARE       **5x4 BLOCKS**
 
 ## SPICES
 - MALASA              **1 BOTTLE**
@@ -96,12 +95,12 @@
 - SUNFLOWER SEEDS     **1 BAG**
 - PUMPKIN SEEDS       **1 BAG**
 - PEANUTS IN SHELL    **1 BAG**
-- CHIPS
-- CANNED FRUIT
+- CHIPS               **4 BAGS**
+- CANNED FRUIT        **5**
 - HOT NUTS            **5 BAGS**
 - RICE CRACKERS       **2 BAGS**
-- POPCORN
-- DRIED CRANBERRIES   
+- POPCORN             **1 BAG**
+- DRIED CRANBERRIES   **3 CRATES**
 
 ## CANS
 - SALSA               **10**
@@ -144,7 +143,7 @@
 - BRANDY              **1/2 BOTTLE**
 
 ## TOILETRIES
-- TOILET PAPER
+- TOILET PAPER        **24**
 - PAPER TOWELS
 - SHAVING BLADES
 - PAPER TOWELS
