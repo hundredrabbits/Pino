@@ -79,7 +79,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Standard Horizon HX870 Handlheld VFH Radio
 * Teak cockpit instrument panel
 * Raymarine ST60 Depth Sounder, Wind speed, Boat Speed
-* Autohelm ST4000 Autopilot
 * Furuno Marine 1720 Radar
 * Raymarine ST60 Knotmeter
 * LEPY Audio Amplifier 12V
@@ -99,7 +98,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
 * 3 USB double outlets(2 inside, 1 outside)
-* 2 Solar Panels(1 x 60W, 1 x 100W)
+* 4 Solar Panels(1 x 60W, 1 x 100W, 2 x 90W)
 * ProStar-15 Solar Controller
 
 ## Ground tackle
@@ -110,7 +109,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 200' - 1/2" nylon rode (spare)
 * 100' chain 5/16 
 * 200' 1/2" nylon rode
-* V-shape custom anchor Bridle
+* Chain hook with custom bridle
 
 ## Helm and Deck
 * Wheel Steering
