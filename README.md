@@ -22,7 +22,7 @@
 * **Displacement** 10584lbs(4400kgs)
 * **Displacement Ratio** 242.20(Moderate)
 * **Ballast** 4409lbs(2000 kgs.)
-* **Headroom** 6ft 3in
+* **Headroom** 6ft3in(1.9m)
 
 ## Engine(13HP)
 * **Engine Brand** Yanmar
@@ -38,15 +38,15 @@
 * **Maximum Speed** 6 knots
 
 ## Tanks
-* **Fresh Water Tanks** Fiberglass (45 Gallons)
-* **Fuel Tanks** (18 Gallons)
-* **Holding Tanks** Plastic (30 Gallons)
-* **Water(Annex)** Plastic (5 X 6 Gallons)
-* **Fuel(Annex)** Plastic (2 X 5.3 Gallons)
-* **Gasoline(Annex)** Plastic (5.8 Gallons)
+* **Fresh Water Tanks** Fiberglass (45 Gallons/170L)
+* **Fuel Tanks** (18 Gallons/62L)
+* **Holding Tanks** Plastic (30 Gallons/114L)
+* **Water(Annex)** Plastic (5 X 6 Gallons/23L)
+* **Fuel(Annex)** Plastic (2 X 5.3 Gallons/20L)
+* **Gasoline(Annex)** Plastic (5.8 Gallons/22L)
 
 ## Accommodations
-There are six berths aboard, a large V berth, two singles in the main salon, a pilot on the port side and one large quarter berth to port aft. She has a fold away salon dining table, and has 6' 3" headroom.
+There are six berths aboard, a large V berth, two singles in the main salon, a pilot on the port side and one large quarter berth to port aft. She has a fold away salon dining table, and has 6'3"(1.9m) headroom.
 * **Number of single berths** 4
 * **Number of double berths** 1
 * **Number of cabins** 1
@@ -54,7 +54,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 
 ## Outside Equipment/Extras
 * Electric windlass
-* Espar forced air heating.
+* Espar forced air heating
 * Nova cool fridge and freezer
 * LEDs lights
 * Plastimo inflatable tender
@@ -68,10 +68,9 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Located starboard aft
 * 2 deep Stainless Steel Sinks
 * Nova Kool Refrigeration
-* Force10 3 burner propane Stove with Oven
+* Force10 3 burner propane stove with oven
 * Pressure domestic water system
-* Cold water foot pump in galley
-* Salt water foot pump in galley
+* Water foot pump in galley
 * 2 Deckhead Dorads near galley
 
 ## 12V Electronics
@@ -81,11 +80,11 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Raymarine ST60 Depth Sounder, Wind speed, Boat Speed
 * Furuno Marine 1720 Radar
 * Raymarine ST60 Knotmeter
-* LEPY Audio Amplifier 12V
 * Samplex 250W, DC-AC Inverter
+* PROWatt 600W, DC-AC Inverter (found 06/12/17)
 * Clock, Barometer and Hygrometer
 * Balmar 75 amp altenator.
-* Four 6 Volt golf cart batteries
+* Four 6 Volt golf cart batteries (changed 25/11/17)
 * Truecharge 40 Battery Charger
 * House batteries 12 V at 440 Hh
 * 30 Amp shore power cord
@@ -97,26 +96,26 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 4 x 6 Volt batteries (440 Amp hours)
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
-* 3 USB double outlets(2 inside, 1 outside)
-* 4 Solar Panels(1 x 60W, 1 x 100W, 2 x 90W)
+* 2 USB double outlets(1 inside, 1 outside)
+* 4 Solar Panels(1 x 60W, 1 x 100W, 2 x 90W) (60W+100W purchased 04/01/16, 2x90W purchased 01/12/17)
 * ProStar-15 Solar Controller
 
 ## Ground tackle
 * Bruce Anchor 10 kg(22lb)
 * Rocna Anchor 10kg (22lb)
-* Electric Anchor Windlass
+* Electric Lexmar vertical Anchor Windlass
 * 50' galvanized chain 5/16 (spare)
 * 200' - 1/2" nylon rode (spare)
 * 100' chain 5/16 
 * 200' 1/2" nylon rode
-* Chain hook with custom bridle
+* Chain hook with nylon bridle
 
 ## Helm and Deck
 * Wheel Steering
-* Barrient and Anderson winches
+* Barient and Anderson winches
 * 2 Mustang PFDs & Sailing Harness
 * Flare Gun(12 ammo)
-* Canvas bimini with Stainless Steel supports
+* Bimini with Stainless Steel supports
 * Canvas lee cloths to shelter cockpit area
 
 ## Rig and Sail Inventory
@@ -127,7 +126,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 
 ## Additional Features
 * ACR ResQLink PLB
-* Brass Bell
 
 ## Fuel Filter(119305-35151)
 * Primary
