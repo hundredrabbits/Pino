@@ -39,9 +39,15 @@
 - `3 kg` cranberries
 - `3` soba
 
+## WET
+
+- `3` apple cider vinegar
+- `1` soy sauce
+- `1` rice vinegar
+
 ## OTHER
 
 - `3` hot sauce
 - `10` pickles
-- `20` olives
-- `3` cliff bars
+- `0` olives
+- `0` cliff bars
