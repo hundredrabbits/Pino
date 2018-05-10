@@ -55,7 +55,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Outside Equipment/Extras
 * Electric windlass
 * Espar forced air heating
-* Nova cool fridge and freezer
 * LEDs lights
 * Plastimo inflatable tender
 * Honda 2.3hp 4 strokes outboard engine
@@ -67,9 +66,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Galley
 * Located starboard aft
 * 2 deep Stainless Steel Sinks
-* Nova Kool Refrigeration
 * Force10 3 burner propane stove with oven
-* Pressure domestic water system
 * Water foot pump in galley
 * 2 Deckhead Dorads near galley
 
@@ -89,6 +86,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * House batteries 12 V at 440 Hh
 * 30 Amp shore power cord
 * Iridium GO! Sat Phone
+* Vesper xb-8000 transponder (bought 10/05/18)
 
 ## Electrical
 * AC outlets in cabin (4 total - 1 in head)
@@ -96,31 +94,35 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 4 x 6 Volt batteries (440 Amp hours)
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
-* 2 USB double outlets(1 inside, 1 outside)
+* 2 USB double outlets
 * 4 Solar Panels(1 x 60W, 1 x 100W, 2 x 90W) (60W+100W purchased 04/01/16, 2x90W purchased 01/12/17)
 * ProStar-15 Solar Controller
 
 ## Ground tackle
 * Bruce Anchor 10 kg(22lb)
 * Rocna Anchor 10kg (22lb)
+* Rocna Anchor 15kg (33lb)
 * Electric Lexmar vertical Anchor Windlass
 * 50' galvanized chain 5/16 (spare)
 * 200' - 1/2" nylon rode (spare)
 * 100' chain 5/16 
 * 200' 1/2" nylon rode
-* Chain hook with nylon bridle
+* SS Chain hook with nylon bridle
 
 ## Helm and Deck
-* Wheel Steering
+* Tiller steering
 * Barient and Anderson winches
 * 2 Mustang PFDs & Sailing Harness
 * Flare Gun(12 ammo)
 * Bimini with Stainless Steel supports
 * Canvas lee cloths to shelter cockpit area
+* Monitor(?) windvane
+* Richie bulkhead compass
 
 ## Rig and Sail Inventory
 * Stainless Steel Mast and Boom
 * Mainsail, by North Sails (259.9 / 24.15)
+* Full batten mainsail, by UKsails (made 10/05/18)
 * 100% Jib, by North Sails (322.3 / 29.94)
 * Black, Red & Blue Gennaker, by North Sails
 
