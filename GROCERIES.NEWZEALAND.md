@@ -17,23 +17,28 @@
 
 ## DRY
 
+- `0` spaghetti
+- `0` wholegrain penne
+- `0` fun pasta
+- `0` pumpkin seeds
+- `0` sunflower seeds
 - `0` chickpeas
 - `6 kg` oats
 - `6 kg` spelt flour
 - `10 kg` white flour
 - `1 kg` buckwheat flour
 - `1.5 kg` carob powder
-- `5` dried mushrooms
+- `5 packs` dried mushrooms
 - `4 kg` nutritional yeast
 - `2kg` glutinous rice
 - `2kg` jasmine rice
 - `1kg` black rice
 - `1kg` coconut sugar
-- `0` murukku
 - `4 kg` chickpea flour
 - `1 kg` bulghur 
 - `1x50 sheets` nori
 - `0` rice noodles
+- `1 kg` chana dal
 - `0` buckwheat grains
 - `0` sesame seeds
 - `2 kg` red lentils
@@ -41,6 +46,7 @@
 - `3 packs` soba
 - `5kg` baking soda
 - `0` popped corn
+- `0` dessicated coconut
 - `500g` arrowroot starch
 
 ## WET
@@ -58,11 +64,22 @@
 - `500g` garam masala
 - `500g` cumin seeds
 - `500g` turmeric
+- `200g` cardamom pods
+- `0` fenugreek seeds
+- `300g` curry powder
+- `300g` dry chillies
+- `200g` dry basil
+- `0` black pepper
 
 ## OTHER
 
 - `3` hot sauce
+- `6 kg` peanut butter
+- `3 kg` tahini
 - `34` cliff bars
+- `0` miso
 - `4` jam
+- `0` murukku
 - `2` pickles
 - `5 bags` sugary torsos
+- `6 kg` coffee beans
