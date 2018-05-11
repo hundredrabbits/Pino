@@ -44,6 +44,7 @@
 * **Water(Annex)** Plastic (5 X 6 Gallons/23L)
 * **Fuel(Annex)** Plastic (2 X 5.3 Gallons/20L)
 * **Gasoline(Annex)** Plastic (5.8 Gallons/22L)
+* **Propane** 1x9kg + 2x4.5kg
 
 ## Accommodations
 There are six berths aboard, a large V berth, two singles in the main salon, a pilot on the port side and one large quarter berth to port aft. She has a fold away salon dining table, and has 6'3"(1.9m) headroom.
