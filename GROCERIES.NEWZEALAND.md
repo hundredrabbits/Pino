@@ -17,37 +17,47 @@
 
 ## DRY
 
-- `3` chickpeas
+- `0` chickpeas
 - `6 kg` oats
-- `10 kg` rye flour
+- `6 kg` spelt flour
 - `10 kg` white flour
+- `1 kg` buckwheat flour
+- `1.5 kg` carob powder
 - `5` dried mushrooms
-- `5 kg` nutritional yeast
-- `10kg` white rice
-- `5kg` black rice
-- `0` sugar
+- `4 kg` nutritional yeast
+- `2kg` glutinous rice
+- `2kg` jasmine rice
+- `1kg` black rice
+- `1kg` coconut sugar
 - `0` murukku
-- `0` dessicated coconut
-- `3 kg` chickpea flour
-- `6 kg` bulghur 
-- `2 packs` nori
-- `10` rice noodles
-- `3 kg` buckwheat
-- `2` sesame seeds
-- `1 kg` red lentils
-- `5 kg` brown lentils
-- `3 kg` cranberries
-- `3` soba
+- `4 kg` chickpea flour
+- `1 kg` bulghur 
+- `1x50 sheets` nori
+- `0` rice noodles
+- `0` buckwheat
+- `0` sesame seeds
+- `2 kg` red lentils
+- `1 kg` brown lentils
+- `3 packs` soba
+- `5kg` baking soda
 
 ## WET
 
-- `3` apple cider vinegar
-- `1` soy sauce
+- `0` apple cider vinegar
+- `5 L` soy sauce
 - `1` rice vinegar
+- `2 L` olive oil
+- `2 L` sesame oil
+
+## SPICES
+
+- `500g` coriander seeds
+- `500g` garam masala
+- `500g` cumin seeds
 
 ## OTHER
 
 - `3` hot sauce
-- `10` pickles
-- `0` olives
-- `0` cliff bars
+- `34` cliff bars
+- `4` jam
+- `2` pickles
