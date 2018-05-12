@@ -51,7 +51,7 @@
 
 ## WET
 
-- `0` apple cider vinegar
+- `5 L` apple cider vinegar
 - `3 L` white vinegar
 - `5 L` soy sauce
 - `1` rice vinegar
