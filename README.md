@@ -54,7 +54,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * **Number of heads** 1
 
 ## Outside Equipment/Extras
-* Electric windlass
 * Espar forced air heating
 * LEDs lights
 * Plastimo inflatable tender
@@ -103,7 +102,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Bruce Anchor 10 kg(22lb)
 * Rocna Anchor 10kg (22lb)
 * Rocna Anchor 15kg (33lb)
-* Electric Lexmar vertical Anchor Windlass
 * 50' galvanized chain 5/16 (spare)
 * 200' - 1/2" nylon rode (spare)
 * 100' chain 5/16 
