@@ -56,7 +56,6 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Outside Equipment/Extras
 * Espar forced air heating
 * LEDs lights
-* Plastimo inflatable tender
 * Honda 2.3hp 4 strokes outboard engine
 * Specialized 'langster' road bike
 * Trek 'district s' road bike
@@ -78,8 +77,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Raymarine ST60 Depth Sounder, Wind speed, Boat Speed
 * Furuno Marine 1720 Radar
 * Raymarine ST60 Knotmeter
-* Samplex 250W, DC-AC Inverter
-* PROWatt 600W, DC-AC Inverter (found 06/12/17)
+* Cellstar 500W, DC-AC Inverter (bought 25/03/19)
 * Clock, Barometer and Hygrometer
 * Four 6 Volt golf cart batteries (changed 25/11/17)
 * Truecharge 40 Battery Charger
@@ -95,7 +93,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
 * 1 USB double outlets
-* 4 Solar Panels(1 x 60W, 1 x 100W, 2 x 90W) (60W+100W purchased 04/01/16, 2x90W purchased 01/12/17)
+* 3 Solar Panels(1 x 100W, 2 x 90W) (100W purchased 04/01/16, 2x90W purchased 01/12/17)
 * ProStar-15 Solar Controller
 
 ## Ground tackle
@@ -121,6 +119,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 ## Rig and Sail Inventory
 * Stainless Steel Mast and Boom
 * Full batten mainsail, by UKsails (made 10/05/18)
+* Bainbridge slides A019S (10.0mm) and B101 (11mmx2.5mm)
 * 100% Jib, by North Sails (322.3 / 29.94)
 * Black, Red & Blue Gennaker, by North Sails
 
