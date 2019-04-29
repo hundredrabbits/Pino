@@ -62,6 +62,8 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Bike pump
 * 2 Manual bilge pumps
 * Honda EU1000i generator
+* Electric heater
+* 5KG Co2 tank (for carbonation)
 
 ## Galley
 * Located starboard aft
