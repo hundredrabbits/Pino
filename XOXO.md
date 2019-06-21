@@ -55,5 +55,10 @@ A collection of moments on the joys and difficulties of living away from interne
   - We couldn't make a video game, so we made a book.
   - Changing our habits, and projects.
 
+### Slides
+
+Talk: 20 minutes(1200 seconds), 30 seconds per slide, 40 slides.
+
+https://docs.google.com/presentation/d/1XNquPdITQu9HMGUuRO4c6DB-mtJ1PHqYTc75TPmD-Og/edit?usp=sharing
 
 
