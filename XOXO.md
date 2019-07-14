@@ -30,7 +30,7 @@ A collection of moments on the joys and difficulties of living away from interne
 - 2.1 **Downsizing**, from our appartment in Tokyo to a 10m x 2m sailboat. It's not that hard.
 - 2.2 **Buying a sailboat**, learning to sail. It's not that hard. Sailboat repairs, the sailing community, open-source philosophy.
 - 2.3 **Development** without reliable internet connection (Nuku hiva, outdoor cafe, bugs, slow internet, especially when the cruiseship arrives etc). It's pretty hard. When Itchio lent us a hand. Meeting with another iOS developer on an island, iOS Troubles.
-- 2.4 **The Weather**, the sun dictates our tasks, lack of power. Sea sickness, staying safe, preparedness, wind changes.
+- 2.4 **The Weather**, the sun and wind (swinging away from internet hotspot in huahine) dictate our tasks, lack of power. Sea sickness, staying safe, preparedness, wind changes.
 
 ### 3 The Resolution
 
