@@ -34,18 +34,9 @@ A collection of moments on the joys and difficulties of living away from interne
 
 ### 3 The Resolution
 
-- Learning new things again.
-  - Lessons = Learning = Growth
-  - Work less, due to solar power.
-  - Make different items choices, what works on land won't necessarily work on a boat (computers, corrosion etc). Durability, simplicity and multi-functional.
-- More counciencious living:
-  - Exit the loop of buy/sell when moving.
-  - Own less, be more mobile. One thing enters, one leaves.
-  - Lifestyle experiment  
-  - Digital nomads, Solarpunk values  
-- Publishing lightweight content in an age of bloated internet.
-  - We couldn't make a video game, so we made a book.
-  - Changing our habits, and projects.
+- 3.1 **Lessons**, learning new things again. Learning = Growth Work less, due to solar power. Make different items choices, what works on land won't necessarily work on a boat (computers, corrosion etc). Durability, simplicity and multi-functional.
+- 3.2 **Counciencious living**, exit the loop of buy/sell when moving. Own less, be more mobile. One thing enters, one leaves. Lifestyle experiment. Digital nomads, Solarpunk values.
+- 3.3 **Lightweight content** in an age of bloated internet. We couldn't make a video game, so we made a book. Changing our habits, and projects.
 
 ### Slides
 
