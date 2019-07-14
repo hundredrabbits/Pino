@@ -20,8 +20,8 @@ We are digital nomads, living aboard a sailboat. Since February 2016, we have sa
 
 - 1.1 **Intro**, together we make games, books, tools and toys — On the ocean.
 - 1.2 **Pino**, our home and studio, spaceship.
-- 1.3 **Trip** We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan. Sucked into a 5 years adventure. Inertia. 
-- 1.4 **Learn**, but we knew nothing about nothing. Parental disbelief.
+- 1.3 **Learn**, but we knew nothing about nothing. Parental disbelief.
+- 1.4 **Trip** We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan. Sucked into a 5 years adventure. Inertia. 
 - 1.5 **Inspiration**, Discovering youtube sailing channels, "What, you can do that?!".
 
 ### 2 The Conflict
