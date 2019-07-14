@@ -6,9 +6,9 @@
 
 ## Arc
 
-A. This is what we do (the setup)
-B. These are the uniquely challenging/difficult parts to it (the conflict)
-C. This is why it matters to us and is worth it (the resolution)
+1. This is what we do (the setup)
+2. These are the uniquely challenging/difficult parts to it (the conflict)
+3. This is why it matters to us and is worth it (the resolution)
 
 ## Talk
 
