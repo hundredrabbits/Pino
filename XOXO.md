@@ -16,30 +16,21 @@
 
 Living and working from a sailboat as we travel around the world, making open source tools and games.
 
-We are digital nomads, living aboard a sailboat. Since February 2016, we have sailed 28'810km through 11 countries, making open-source tools, games, recipes, and videos. We embarked in this lifestyle experiment to stay creative, and to reduce our impact on the world
+We are digital nomads, living aboard a sailboat. Since February 2016, we have sailed 28'810km through 11 countries, making open-source tools, games, recipes, and videos. We embarked in this lifestyle experiment to stay creative, and to reduce our impact on the world.
 
 - 1.1 **Intro**, together we make games, books, tools and toys — On the ocean.
 - 1.2 **Pino**, our home and studio, spaceship.
 - 1.3 **Learn**, but we knew nothing about nothing. Parental disbelief.
 - 1.4 **Trip** We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan. Sucked into a 5 years adventure. Inertia. 
-- 1.5 **Inspiration**, Discovering youtube sailing channels, "What, you can do that?!".
 
 ### 2 The Conflict
 
 A collection of moments on the joys and difficulties of living away from internet and power.
 
-- Downsizing from our appartment in Tokyo to a 10m x 2m sailboat.
-  - It's not that hard.
-- Buying a boat, learning to sail.
-  - It's not that hard.
-  - Sailboat repairs, the sailing community, open-source philosophy.
-- Development without reliable internet connection.
-  - It's pretty hard.
-  - When Itchio lent us a hand.
-  - Meeting with another iOS developer on an island, iOS Troubles.
-- The Weather
-  - Sun dictates our tasks, lack of power.
-  - Sea sickness, staying safe, preparedness, wind changes.
+- 2.1 **Downsizing**, from our appartment in Tokyo to a 10m x 2m sailboat. It's not that hard.
+- 2.2 **Buying a sailboat**, learning to sail. It's not that hard. Sailboat repairs, the sailing community, open-source philosophy.
+- 2.3 **Development** without reliable internet connection. It's pretty hard. When Itchio lent us a hand. Meeting with another iOS developer on an island, iOS Troubles.
+- 2.4 **The Weather**, the sun dictates our tasks, lack of power. Sea sickness, staying safe, preparedness, wind changes.
 
 ### 3 The Resolution
 
