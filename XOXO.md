@@ -1,8 +1,8 @@
 
 ## Points 
 
-1. the emotionally challenging parts of being an independent artist, or some aspect of it, 
-2. why it matters enough to you to keep doing it
+1. The emotionally challenging parts of being an independent artist, or some aspect of it.
+2. Why it matters enough to you to keep doing i.
 
 ## Arc
 
