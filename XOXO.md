@@ -18,11 +18,11 @@ Living and working from a sailboat as we travel around the world, making open so
 
 We are digital nomads, living aboard a sailboat. Since February 2016, we have sailed 28'810km through 11 countries, making open-source tools, games, recipes, and videos. We embarked in this lifestyle experiment to stay creative, and to reduce our impact on the world
 
-1.1 **Intro**, together we make games, books, tools and toys — On the ocean.
-1.2 **Pino**, our home and studio, spaceship.
-1.3 **Trip** We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan. Sucked into a 5 years adventure. Inertia. 
-1.4 **Learn**, but we knew nothing about nothing. Parental disbelief.
-1.5 **Inspiration**, Discovering youtube sailing channels, "What, you can do that?!".
+- 1.1 **Intro**, together we make games, books, tools and toys — On the ocean.
+- 1.2 **Pino**, our home and studio, spaceship.
+- 1.3 **Trip** We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan. Sucked into a 5 years adventure. Inertia. 
+- 1.4 **Learn**, but we knew nothing about nothing. Parental disbelief.
+- 1.5 **Inspiration**, Discovering youtube sailing channels, "What, you can do that?!".
 
 ### 2 The Conflict
 
