@@ -12,19 +12,19 @@
 
 ## Talk
 
-### The Setup
+### 1 The Setup
 
 Living and working from a sailboat as we travel around the world, making open source tools and games.
 
-- Intro, together we make games, books, tools and toys — On the ocean.
-- This is Pino, our home and studio, spaceship.
-- We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan.
-  - Sucked into a 5 years adventure. Inertia.
-- But we knew nothing about nothing.
-- Discovering youtube sailing channels, "What, you can do that?!".
-- Parental disbelief.
+We are digital nomads, living aboard a sailboat. Since February 2016, we have sailed 28'810km through 11 countries, making open-source tools, games, recipes, and videos. We embarked in this lifestyle experiment to stay creative, and to reduce our impact on the world
 
-### The Conflict
+1.1 **Intro**, together we make games, books, tools and toys — On the ocean.
+1.2 **Pino**, our home and studio, spaceship.
+1.3 **Trip** We wanted to stay put, but Wanderlust. Margaritas, then suddenly Japan. Sucked into a 5 years adventure. Inertia. 
+1.4 **Learn**, but we knew nothing about nothing. Parental disbelief.
+1.5 **Inspiration**, Discovering youtube sailing channels, "What, you can do that?!".
+
+### 2 The Conflict
 
 A collection of moments on the joys and difficulties of living away from internet and power.
 
@@ -41,7 +41,7 @@ A collection of moments on the joys and difficulties of living away from interne
   - Sun dictates our tasks, lack of power.
   - Sea sickness, staying safe, preparedness, wind changes.
 
-### The Resolution
+### 3 The Resolution
 
 - Learning new things again.
   - Lessons = Learning = Growth
