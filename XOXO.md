@@ -44,4 +44,19 @@ Talk: 20 minutes(1200 seconds), 30 seconds per slide, 40 slides.
 
 https://docs.google.com/presentation/d/1XNquPdITQu9HMGUuRO4c6DB-mtJ1PHqYTc75TPmD-Og/edit?usp=sharing
 
+### Order
 
+- Intro         Devine
+- Pino          Rekka
+- Learn         Devine
+- Trip          Rekka
+
+- Downsizing    Devine
+- Buying        Rekka
+- Development   Devine
+- Weather       Rekka
+
+- Lessons       Devine
+- Lifestyle     Rekka
+- Lightweight   Devine
+- Closing       Rekka
