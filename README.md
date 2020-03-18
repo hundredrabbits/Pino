@@ -41,10 +41,10 @@
 * **Fresh Water Tanks** Fiberglass (45 Gallons/170L)
 * **Fuel Tanks** (18 Gallons/62L)
 * **Holding Tanks** Plastic (30 Gallons/114L)
-* **Water(Annex)** Plastic (5 X 6 Gallons/23L)
+* **Water(Annex)** Plastic (50L tank + 2x23L + 10L)
 * **Fuel(Annex)** Plastic (2 X 5.3 Gallons/20L)
 * **Gasoline(Annex)** Plastic (5.8 Gallons/22L)
-* **Propane** 1x9kg + 2x4.5kg
+* **Propane** 2x5 kg
 
 ## Accommodations
 There are six berths aboard, a large V berth, two singles in the main salon, a pilot on the port side and one large quarter berth to port aft. She has a fold away salon dining table, and has 6'3"(1.9m) headroom.
@@ -60,10 +60,11 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Specialized 'langster' road bike
 * Trek 'district s' road bike
 * Bike pump
-* 2 Manual bilge pumps
+* Chimp MK2 manual bilge pump (serviced diaphragm, nut and lock 28/02/20)
+* Whale Gusher Titan manual bilge pump (purchased 10/07/18)
 * Honda EU1000i generator
 * Electric heater
-* 5KG Co2 tank (for carbonation)
+* 5 kg Co2 tank (for carbonation)
 
 ## Galley
 * Located starboard aft
@@ -97,6 +98,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * 1 USB double outlets
 * 3 Solar Panels(1 x 100W, 2 x 90W) (100W purchased 04/01/16, 2x90W purchased 01/12/17)
 * ProStar-15 Solar Controller
+* Caframo True North Heater
 
 ## Ground tackle
 * Bruce Anchor 10 kg(22lb)
@@ -113,17 +115,17 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Barient and Anderson winches
 * 2 Mustang PFDs & Sailing Harness
 * Flare Gun(12 ammo)
-* Bimini with Stainless Steel supports
-* Canvas lee cloths to shelter cockpit area
 * Monitor(?) windvane
 * Richie bulkhead compass
 
 ## Rig and Sail Inventory
 * Stainless Steel Mast and Boom
 * Full batten mainsail, by UKsails (made 10/05/18)
-* Bainbridge slides A019S (10.0mm) and B101 (11mmx2.5mm)
+* Bainbridge slides A019S (10.0mm) and B101 (11mmx2.5mm) (03/2019)
 * 100% Jib, by North Sails (322.3 / 29.94)
-* Black, Red & Blue Gennaker, by North Sails
+* Black, Red & Blue Gennaker, by North Sails (bought 09/16)
+* Main halyard, Sirius 500 with Dyneema loop (Robship) black / 12mm×37m (bought 18/03/20)
+* Jib line, double-braid polyester / 10mmx19m (FSE Robline) (bought 18/03/20)
 
 ## Additional Features
 * ACR ResQLink PLB
