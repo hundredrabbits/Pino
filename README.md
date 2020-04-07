@@ -38,12 +38,11 @@
 * **Maximum Speed** 6 knots
 
 ## Tanks
-* **Fresh Water Tanks** Fiberglass (45 Gallons/170L)
-* **Fuel Tanks** (18 Gallons/62L)
-* **Holding Tanks** Plastic (30 Gallons/114L)
-* **Water(Annex)** Plastic (50L tank + 2x23L + 10L)
-* **Fuel(Annex)** Plastic (2 X 5.3 Gallons/20L)
-* **Gasoline(Annex)** Plastic (5.8 Gallons/22L)
+* **Fresh Water Tank** Fiberglass (45 Gallons/170L)
+* **Fresh Water Annex** Plastic (50L tank + 2x23L + 10L)
+* **Fuel Tank** (18 Gallons/62L)
+* **Fuel Annex** Plastic (2 X 5.3 Gallons/20L)
+* **Gasoline Annex** Plastic (5.8 Gallons/22L)
 * **Propane** 2x5 kg
 
 ## Accommodations
@@ -119,7 +118,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Richie bulkhead compass
 
 ## Rig and Sail Inventory
-* Stainless Steel Mast and Boom
+* Aluminum Steel Mast and Boom
 * Full batten mainsail, by UKsails (made 10/05/18)
 * Bainbridge slides A019S (10.0mm) and B101 (11mmx2.5mm) (03/2019)
 * 100% Jib, by North Sails (322.3 / 29.94)
