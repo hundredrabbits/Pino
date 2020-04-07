@@ -52,7 +52,7 @@
 
 ## Thruhulls
 
-- Redo kitch sink thruhull.
+- Redo kitchen sink thruhull.
 - Remove old head toilet intake thruhull.
 - Remove old head toilet outtake thruhull.
 - Remove old head macerator outtake thruhull.
@@ -60,3 +60,11 @@
 - Remove old salt water intake thruhull.
 - Remove depthmeter thruhull.
 
+## Deck
+
+- Repaint over old waste drain hole cover.
+
+## Nav Lights
+
+- Build new cover for running light case.
+- Install new LED in running light.
