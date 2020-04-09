@@ -26,11 +26,6 @@
 
 - Install ventillation.
 
-## Lockers(Outside)
-
-- Install locker fitting to lock the locker.
-  - Fiberglass backing plate.
-
 ## Water system
 
 - Remove upward bend in 50L tank.
@@ -42,6 +37,7 @@
 ## Bathroom
 
 - Install second drawer for blankets under the new shelf.
+- Build space for trash bag.
 
 ## Icebox
 
