@@ -18,6 +18,7 @@
 - Install chain stopper
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
+  - Get bolts 
     - Buy screws[shop]
 
 ## Lockers(Inside)
@@ -69,3 +70,8 @@
 - Build new cover for running light case.
 - Install new LED in running light.
 - Install second radar reflector.
+
+## Bilge pump
+
+- Get battery connector
+- Reconnect pump
