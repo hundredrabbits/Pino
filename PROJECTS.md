@@ -5,6 +5,7 @@
 - Hole in chain locker where the windlass control used to be.
   - Fiberglass backing plate.
   - Paint
+    - Buy paint[shop]
 - Hole in cockpit where the windlass control used to be.
   - Fiberglass backing plate.
   - Paint
@@ -17,7 +18,9 @@
 - Install chain stopper
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
+    - Buy screws[shop]
 - Install new fitting on chain locker drain.
+  - Buy fitting[shop]
 
 ## Lockers(Inside)
 
@@ -49,6 +52,7 @@
 - Remove old ripped suncover on Jib.
 - Install new suncover on Jib.
 - Tape/stitch-over tear on Jib.
+- Design and install lazyjacks
 
 ## Thruhulls
 
@@ -63,6 +67,7 @@
 ## Deck
 
 - Repaint over old waste drain hole cover.
+  - Buy paint[shop]
 
 ## Nav Lights
 
