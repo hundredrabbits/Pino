@@ -18,6 +18,7 @@
 - Install chain stopper
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
+  - Get bolts 
     - Buy screws[shop]
 - Install new fitting on chain locker drain.
   - Buy fitting[shop]
@@ -73,3 +74,8 @@
 
 - Build new cover for running light case.
 - Install new LED in running light.
+
+## Bilge pump
+
+- Get battery connector
+- Reconnect pump
