@@ -19,8 +19,6 @@
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
     - Buy screws[shop]
-- Install new fitting on chain locker drain.
-  - Buy fitting[shop]
 
 ## Lockers(Inside)
 
@@ -53,6 +51,7 @@
 ## Thruhulls
 
 - Redo kitchen sink thruhull.
+  - Buy new thruhull[order]
 - Remove old head toilet intake thruhull.
 - Remove old head toilet outtake thruhull.
 - Remove old head macerator outtake thruhull.
@@ -65,7 +64,8 @@
 - Repaint over old waste drain hole cover.
   - Buy paint[shop]
 
-## Nav Lights
+## Nav
 
 - Build new cover for running light case.
 - Install new LED in running light.
+- Install second radar reflector.
