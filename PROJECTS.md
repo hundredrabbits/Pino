@@ -73,5 +73,10 @@
 
 ## Bilge pump
 
-- Get battery connector
-- Reconnect pump
+- Reconnect pump to switch.
+
+## Rigging
+
+- Strengthen chainplates to wood connection.
+  - Cut wood to fit space between ceiling and moulure.
+  - Get longer bolts[shop]
