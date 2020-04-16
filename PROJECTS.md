@@ -2,19 +2,6 @@
 
 ## Anchoring
 
-- Hole in chain locker where the windlass control used to be.
-  - Fiberglass backing plate.
-  - Paint
-    - Buy paint[shop]
-- Hole in cockpit where the windlass control used to be.
-  - Fiberglass backing plate.
-  - Paint
-- Hole on deck where chain drop used to be.
-  - Fiberglass
-  - Paint
-- Hole where windless engine used to be.
-  - Fiberglass
-  - Paint
 - Install chain stopper
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
@@ -44,9 +31,7 @@
 
 ## Sails
 
-- Remove old ripped suncover on Jib.
 - Install new suncover on Jib.
-- Tape/stitch-over tear on Jib.
 - Design and install lazyjacks
 
 ## Thruhulls
@@ -61,9 +46,6 @@
 - Remove depthmeter thruhull.
 
 ## Deck
-
-- Repaint over old waste drain hole cover.
-  - Buy paint[shop]
 
 ## Nav
 
