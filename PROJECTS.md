@@ -12,10 +12,6 @@
 
 - Install ventillation.
 
-## Water system
-
-- Remove upward bend in 50L tank.
-
 ## Batteries
 
 - Install vent plate over old windlass hole(13cm x 3cm).
@@ -25,7 +21,7 @@
 - Install second drawer for blankets under the new shelf.
 - Build space for trash bag.
 
-## Icebox
+## Galley
 
 - Install ventillation from under sink.
 
@@ -44,8 +40,6 @@
 - Remove old head sink thruhull.
 - Remove old salt water intake thruhull.
 - Remove depthmeter thruhull.
-
-## Deck
 
 ## Nav
 
