@@ -56,3 +56,7 @@
 - Strengthen chainplates to wood connection.
   - Cut wood to fit space between ceiling and moulure.
   - Get longer bolts[shop]
+
+## Fiberglass
+
+- Seal holes left by windvane.
