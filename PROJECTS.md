@@ -5,16 +5,13 @@
 - Install chain stopper
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
+     How to properly bed hardware (https://www.cruisingworld.com/how/core-concerns-reefing-and-backfilling/)
   - Get bolts 
     - Buy screws[shop]
 
 ## Lockers(Inside)
 
 - Install ventillation.
-
-## Batteries
-
-- Install vent plate over old windlass hole(13cm x 3cm).
 
 ## Bathroom
 
