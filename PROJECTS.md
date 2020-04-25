@@ -5,7 +5,7 @@
 - Install chain stopper
   - Cut Micarter backing plate.
   - Install Micarter backing plate.
-     How to properly bed hardware (https://www.cruisingworld.com/how/core-concerns-reefing-and-backfilling/)
+    - How to properly bed hardware (https://www.cruisingworld.com/how/core-concerns-reefing-and-backfilling/)
   - Get bolts 
     - Buy screws[shop]
 
