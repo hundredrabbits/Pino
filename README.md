@@ -95,7 +95,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * Balmar 75 Amp Marine Alternator
 * 30 Amp Shore Power
 * 1 USB double outlets
-* 3 Solar Panels(1 x 100W, 2 x 90W) (100W purchased 04/01/16, 2x90W purchased 01/12/17)
+* 3 Solar Panels aboard, 1 in use (1 x 100W 04/01/16 — in use, 2 x 90W 01/12/17) 
 * ProStar-15 Solar Controller
 * Caframo True North Heater
 
