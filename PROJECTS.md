@@ -21,6 +21,13 @@
 ## Galley
 
 - Install ventillation from under sink.
+- Test and fix leak detector
+- Buy electric cooking range
+
+## Engine
+
+- Change zincs
+- Change water pump belt
 
 ## Sails
 
@@ -36,17 +43,20 @@
 - Remove old head macerator outtake thruhull.
 - Remove old head sink thruhull.
 - Remove old salt water intake thruhull.
-- Remove depthmeter thruhull.
+- Remove knotmeter thruhull.
 
 ## Nav
 
 - Build new cover for running light case.
 - Install new LED in running light.
 - Install second radar reflector.
+- Buy SAT phone plan
+- Download Navionics maps on all devices
 
 ## Bilge pump
 
 - Reconnect pump to switch.
+- Install rocker switch for manual turn on
 
 ## Rigging
 
@@ -55,5 +65,3 @@
   - Get longer bolts[shop]
 
 ## Fiberglass
-
-- Seal holes left by windvane.
