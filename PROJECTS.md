@@ -56,9 +56,14 @@
 - Reconnect pump to switch.
 - Install rocker switch for manual turn on
 
-## Rigging
+## Standing Rigging
 
 - Climb mast to check connections
 - Strengthen chainplates to wood connection.
   - Cut wood to fit space between ceiling and moulure.
   - Get longer bolts[shop]
+
+## Running Rigging
+
+- Install furler line
+- Install main halyard
