@@ -21,8 +21,6 @@
 ## Galley
 
 - Install ventillation from under sink.
-- Test and fix leak detector
-- Buy electric cooking range
 
 ## Engine
 
@@ -60,8 +58,7 @@
 
 ## Rigging
 
+- Climb mast to check connections
 - Strengthen chainplates to wood connection.
   - Cut wood to fit space between ceiling and moulure.
   - Get longer bolts[shop]
-
-## Fiberglass
