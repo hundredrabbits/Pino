@@ -134,3 +134,7 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * **NAPA** 7040, 1365
 * **WIX** 51365, 57040
 * **Baldwin** B1400, B7286
+
+## Engine Parts
+* Zincs
+* **YANMAR** screw 20x30, 27210-200300
