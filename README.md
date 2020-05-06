@@ -130,10 +130,10 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * ACR ResQLink PLB
 
 ## Fuel Filter(119305-35151)
-* Primary
+* Primary (replaced 25/02/19)
 * **NAPA** 7040, 1365
 * **WIX** 51365, 57040
 * **Baldwin** B1400, B7286
 
 ## Engine Parts
-* **YANMAR** zinc screw 20x30, 27210-200300
+* **YANMAR** zinc screw 20x30, 27210-200300 (replaced 06/05/20)
