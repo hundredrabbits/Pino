@@ -136,5 +136,4 @@ There are six berths aboard, a large V berth, two singles in the main salon, a p
 * **Baldwin** B1400, B7286
 
 ## Engine Parts
-* Zincs
-* **YANMAR** screw 20x30, 27210-200300
+* **YANMAR** zinc screw 20x30, 27210-200300
