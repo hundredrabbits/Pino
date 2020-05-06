@@ -24,7 +24,6 @@
 
 ## Engine
 
-- Change zincs
 - Change water pump belt
 
 ## Sails
